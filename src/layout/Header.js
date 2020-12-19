@@ -11,32 +11,32 @@ export const Header = () => {
           className='flex-1 flex flex-row justify-end space-x-6'
         >
           <NavLink
-            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-500 text-white'
-            activeClassName='bg-blue-500'
+            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-600 text-white'
+            activeClassName='bg-blue-600'
             exact
             to='/stores'
           >
             Stores
           </NavLink>
           <NavLink
-            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-500 text-white'
-            activeClassName='bg-blue-500'
+            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-600 text-white'
+            activeClassName='bg-blue-600'
             exact
             to='/menu'
           >
             Menu
           </NavLink>
           <NavLink
-            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-500 text-white'
-            activeClassName='bg-blue-500'
+            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-600 text-white'
+            activeClassName='bg-blue-600'
             exact
             to='/order'
           >
             Place an Order
           </NavLink>
           <NavLink
-            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-500 text-white'
-            activeClassName='bg-blue-500'
+            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-600 text-white'
+            activeClassName='bg-blue-600'
             exact
             to='/'
           >
@@ -53,24 +53,24 @@ export const Header = () => {
           className='flex-1 flex flex-row justify-start space-x-6'
         >
           <NavLink
-            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-500 text-white'
-            activeClassName='bg-blue-500'
+            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-600 text-white'
+            activeClassName='bg-blue-600'
             exact
             to='/'
           >
             Class Weeks
           </NavLink>
           <NavLink
-            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-500 text-white'
-            activeClassName='bg-blue-500'
+            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-600 text-white'
+            activeClassName='bg-blue-600'
             exact
             to='/'
           >
             Data Visualization Concepts
           </NavLink>
           <NavLink
-            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-500 text-white'
-            activeClassName='bg-blue-500'
+            className='w-auto px-6 py-2 flex items-center justify-center rounded-md hover:bg-blue-600 text-white'
+            activeClassName='bg-blue-600'
             exact
             to='/'
           >
